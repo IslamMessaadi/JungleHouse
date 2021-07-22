@@ -8,7 +8,7 @@ const Card=(props)=>{
                     <h5 className="card-title">{hero}</h5>
                     <small>{title} / {state}</small>
                     <p className="card-text">{motto}</p>
-                    <button className="btn bg-dark text-white">Contact me</button>
+                    <button className="btn bg-dark text-white">Hero Page</button>
                 </div>
             </div>
         </div>
