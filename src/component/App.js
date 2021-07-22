@@ -19,6 +19,7 @@ const App=(props)=>{
     return (
         <div className="container">
             <Header/>
+            <br/>
             <div className="row">
                 <div>
                     {data.map(profile =>{
